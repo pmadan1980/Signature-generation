@@ -256,6 +256,11 @@ for episode in range(num_episodes):
 # Render the final trajectory
 env.render()
 
+
+
+
+##PPO EXAMPLE
+
 import numpy as np
 import matplotlib.pyplot as plt
 import gym
